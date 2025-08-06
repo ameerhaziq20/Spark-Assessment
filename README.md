@@ -200,9 +200,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙋‍♂️ Author
 
 **Ameer Haziq Basharuddin**
-- 📧 Email: [your-email@example.com]
-- 💼 LinkedIn: [your-linkedin-profile]
-- 🐙 GitHub: [your-github-username]
 
 ---
 
